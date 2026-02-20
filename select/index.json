@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君は運命の人",
+  "base_artist": "舟津 真翔",
+  "createdAt": "2026-02-20T13:04:31.489997Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君は運命の人",
+      "artist": "舟津真翔",
+      "has_synced": false,
+      "path": "select/pl_01_君は運命の人_舟津真翔.txt"
+    }
+  ]
+}
